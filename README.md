@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukkamwarrohit&label=Profile%20views&color=0e75b6&style=flat" alt="mukkamwarrohit" /> </p>
 
-- 🔭 I’m currently working on **AirBnb Clone**
+- 🔭 I’m currently working on **E-Commerce Website Development using Spring Boot**
 
-- 🌱 I’m currently learning **React Framework**
+- 🌱 I’m currently learning **Spring Boot and React Framework**
 
 - 💬 Ask me about **Spring Boot,Spring**
 
